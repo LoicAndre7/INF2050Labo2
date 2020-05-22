@@ -1,12 +1,12 @@
 public class FizzBuzz {
 
-    public static int max = 100;
+    public static int max = 200;
 
 
     public static void main(String[] args) {
         String mot;
 
-        for (int i = 1; i <= FizzBuzz.max; i++) {
+        for (int i = 1; i <= max; i++) {
 
             mot = "";
 
