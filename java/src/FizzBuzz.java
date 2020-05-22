@@ -6,6 +6,7 @@ public class FizzBuzz {
 
 
     public static void main(String[] args) {
+
         String mot;
 
         for (int i = 1; i <= max; i++) {
@@ -25,6 +26,7 @@ public class FizzBuzz {
             }
 
             System.out.print(i + " : " + mot + "\n");
+
         }
             //Ceci est commentaire du depot 1
     }
