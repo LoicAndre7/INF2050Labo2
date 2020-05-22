@@ -24,6 +24,6 @@ public class FizzBuzz {
 
             System.out.println(i + " : " + mot);
         }
-
+            //Ceci est commentaire du depot 1
     }
 }
