@@ -6,6 +6,7 @@ public class FizzBuzz {
 
 
     public static void main(String[] args) {
+
         String mot;
 
         for (int i = 1; i <= max; i++) {
@@ -24,7 +25,8 @@ public class FizzBuzz {
                 mot = "FizzBuzz";
             }
 
-            System.out.println(i + " : " + mot);
+            System.out.print(i + " : " + mot);
+            System.out.println();
         }
             //Ceci est commentaire du depot 1
     }
