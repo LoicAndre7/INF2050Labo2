@@ -9,7 +9,7 @@ public class FizzBuzz {
 
         String mot;
 
-        for (int i = 1; i <= max; i++) {
+        for (String i = 1; i <= max; i++) {
 
             mot = "";
 
