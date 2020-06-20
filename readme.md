@@ -17,7 +17,7 @@ Le projet utilise la convention de style java disponible [ici](https://www.oracl
 * Les classes sont en miniscules et commencent par une majuscule
 * Les methodes sont en minuscules
 * Les instructions sont entre accolades 
-* Les méthodes disposent d'une entête qui décrit sa fonction et répondand aux exigences de la [javaDoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
+* Les méthodes disposent d'une entête qui décrit sa fonction et conformément aux exigences de la [javaDoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
 
 
 ### Normes utilisés
