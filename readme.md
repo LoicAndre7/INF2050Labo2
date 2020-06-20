@@ -12,7 +12,7 @@ pour le nom des variables et les commentaires
 Le projet utilise la convention de style java disponible [ici](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html) 
 
 
-#### Pour l'eSsentiel 
+#### Pour l'essentiel 
 * Le style camel case est utilisé pour les déclararations de variables et méthodes
 * Les classes sont en miniscules et commencent par une majuscule
 * Les methodes sont en minuscules
