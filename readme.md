@@ -17,9 +17,9 @@ Le projet utilise la convention de style java disponible [ici](https://www.oracl
 * Les classes sont en miniscules et commencent par une majuscule
 * Les methodes sont en minuscules
 * Les instructions sont entre accolades 
-* Les méthodes disposent d'une entête qui décrit sa fonction et répondand aux exigences de la javaDoc
+* Les méthodes disposent d'une entête qui décrit sa fonction et répondand aux exigences de la [javaDoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
 
 
 ### Normes utilisés
 * ISO 5218 pour définir le genre d'une personne
-* ISO 8601 pour le format des date (YYYY-MM-DD)
+* ISO 8601 pour le format des dates (YYYY-MM-DD)
