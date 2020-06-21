@@ -10,7 +10,7 @@ pour le nom des variables et les commentaires
 
 
 ## Convention de style 
-Convention de style java disponible [ici](https://www.oracle.com/java/technologies/javase/cod>)
+Convention de style java disponible [ici](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 
 
 ##### Pour l'essentiel 
