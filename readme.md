@@ -18,7 +18,7 @@ Convention de style java disponible [ici](https://www.oracle.com/technetwork/jav
 * Les classes sont en miniscules et commencent par une majuscule
 * Les methodes sont en minuscules
 * Les instructions sont entre accolades
-* Les méthodes disposent d'une entête qui décrit leur fonction conformément aux exigences de la [javaDoc](https://do>)
+* Les méthodes disposent d'une entête qui décrit leur fonction conformément aux exigences de la [javaDoc](https://docs.oracle.com/en/java/javase/13/javadoc/javadoc.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643>)
 
 ## Environnement de développement
 * IntelliJ IDEA 2020.1.2 (community edition)
