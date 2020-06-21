@@ -9,7 +9,7 @@ Le français et l'anglais sont utilisés dans ce projet, l'anglais pour la synta
 pour le nom des variables et les commentaires
 
 
-## Convention de de style 
+## Convention de style 
 Convention de style java disponible [ici](https://www.oracle.com/java/technologies/javase/cod>)
 
 
@@ -21,7 +21,7 @@ Convention de style java disponible [ici](https://www.oracle.com/java/technologi
 * Les méthodes disposent d'une entête qui décrit leur fonction conformément aux exigences de la [javaDoc](https://do>)
 
 ## Environnement de développement
-* IntelliJ IDEA community edition
+* IntelliJ IDEA 2020.1.2 (community edition)
 
 
 ## Normes utilisés
