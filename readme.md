@@ -1,30 +1,7 @@
 Loic Andre
 INF2050 labo2
 
-# Règles de style
+# Programme de gestion pour la souscription d'assurance vie
 
-
-## Langage 
-Le français et l'anglais sont utilisés dans ce projet, l'anglais pour la syntaxe du code et le français
-pour le nom des variables et les commentaires
-
-
-## Convention de style 
-Convention de style java disponible [ici](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
-
-
-##### Pour l'essentiel 
-* Le style camel case est utilisé pour la déclararations des variables et méthodes
-* Les classes sont en miniscules et commencent par une majuscule
-* Les methodes sont en minuscules
-* Les instructions sont entre accolades
-* Les méthodes disposent d'une entête qui décrit leur fonction conformément aux exigences de la [javaDoc](https://docs.oracle.com/en/java/javase/13/javadoc/javadoc.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643>)
-
-## Environnement de développement
-* IntelliJ IDEA 2020.1.2 (community edition)
-
-
-## Normes utilisés
-* ISO 5218 pour déterminer le genre d'une personne
-* ISO 8601 pour le format des dates (YYYY-MM-DD)
-
+Ce programme permet de déterminer l'éligibilité d'une personne pour une assurance vie et de calculer le montant de l'assurance selon le profile de la personne.
+Le programme ne dispose pas d'interface graphique car il est destiné à être appelé depuis une application web.
